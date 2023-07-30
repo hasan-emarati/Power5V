@@ -1,6 +1,12 @@
 # Power5V
 # 5V Power Supply with L7805 Voltage Regulator
 
+
+![image2](https://github.com/hasan-emarati/Power5V/assets/89896245/ae75d8bd-9cca-476f-8126-1dde14f83786)
+![image1](https://github.com/hasan-emarati/Power5V/assets/89896245/6ae80782-cef7-406b-8a69-f6e0de90ced1)
+
+
+
 This project is a simple 5V power supply built using the L7805 voltage regulator. The power supply serves as a stable and reliable source for electronic circuits and projects.
 
 ## Features:
