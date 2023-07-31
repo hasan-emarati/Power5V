@@ -1,0 +1,20 @@
+# Writing all output to: G:\Git\Git_Hub\Electronic\Power5V\New Project.log
+set pad_wire_necking on
+bus diagonal
+fanout 10
+route 10
+clean 5
+route 10 16
+clean 5
+route 10 16
+clean 5
+route 10 16
+clean 5
+route 10 16
+clean 5
+route 10 16
+clean 5
+filter 5
+recorner diagonal
+status_file
+
